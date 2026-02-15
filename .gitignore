@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+
+# Build output
+build/
+dist/
+*.spec
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+data/
+overwrite_log.txt
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Old / temp files
+*.bak
+app/rag_engine_new.py
