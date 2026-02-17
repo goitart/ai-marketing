@@ -77,6 +77,8 @@ pip install pyinstaller
 pyinstaller build_exe.spec --noconfirm
 # Результат в dist/AI_Censor/
 ```
+<img width="1872" height="957" alt="image" src="https://github.com/user-attachments/assets/7fa739d3-1afa-417e-a83c-44db96c0e6f4" />
+<img width="1902" height="962" alt="image" src="https://github.com/user-attachments/assets/588996d1-f45e-4fe6-b702-21c1f1dcd438" />
 
 ## Технологии
 
